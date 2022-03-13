@@ -1,0 +1,115 @@
+Package: com.said.carx
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Said Al Mujaini
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/carx tweak.deb
+Size: 3340
+MD5sum: 5ca09c1a7ea45fc79e5ef2930b46ed3e
+SHA1: 9ac84740f9653ccc76ce5a1894defd286a1ad4a2
+SHA256: eefd2b60d6a57dd07a73c1adaa8b68525313b5e732a8e83888376c3e609a850a
+Section: Tweaks
+Description: Unlimited coins and money + remove ads 
+Author: Said Al Mujaini
+Name: CarXDriftRacing
+
+Package: com.said.bankmuscatjbbypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Said Al Mujaini
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.said.bankmuscatjbbypass_0.0.1_iphoneos-arm.deb
+Size: 20986
+MD5sum: e543835eab6b6fc8f5af491d582b3bbc
+SHA1: dd550693770e4c58b4b5a7c7aae341aabd1008e3
+SHA256: 51d6f90e685eaa29242b32e0532d8dcd8259af22aa930752b8842722628c3c1c
+Section: Tweaks
+Description: Bank Muscat v5.10 Jailbreak Detection Bypass
+Author: Said Al Mujaini
+Name: BankMuscatJBBypass
+
+Package: com.said.clockplus
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Said Al Mujaini
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.said.clockplus.deb
+Size: 7650
+MD5sum: 4779bb842497ef818f15cd21d33c30aa
+SHA1: b61b171eb13e536febfc29fcf04d5b9d242cc2e6
+SHA256: 9ec2feb149e5f7096429712a68ade1a50aa4f2a3dbe4bc382cfcf9cb58c1e9a9
+Section: Tweaks
+Description: Show time(hr:mm:ss) till next alarm
+Author: Said Al Mujaini
+Name: Clock next alarm
+
+Package: com.said.pubgjbbypass
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Said Al Mujaini
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/pubg.deb
+Size: 31366
+MD5sum: c84ffea11443e0c150058b159837a7ae
+SHA1: 495bff9aae27f00dda25da9049cc4b580ccd9e64
+SHA256: 5444b69baa00d9bb28e54b7b0bd3dc348d4c246d8e87c9b2d2d32b79bbb3d22c
+Section: Tweaks
+Description: Bypass PUBG Mobile v1.7.0 / PUBG New State v0.9.22 Jailbreak Detection
+Author: Said Al Mujaini
+Name: PUBG JB Bypass
+
+Package: com.said.sbypass
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Said Al Mujaini
+Installed-Size: 3020
+Depends: applist, com.rpetrich.rocketbootstrap, com.spark.libsparkapplist
+Filename: ./debs/com.said.sbypass_2.0.1_iphoneos-arm.deb
+Size: 1972464
+MD5sum: 9403c09ecfc9fafd68a0441b861ee23a
+SHA1: cacf9810811747f60065206e8958601cbb1ca97e
+SHA256: 67a08e9e06211b201fe6fc43900445947ecfd13ce2921b238d3e4660afed3a73
+Section: Tweaks
+Description: Bypass Jailbreak Detection for Most Apps
+Author: Said Al Mujaini
+Icon: file:///Library/S-Bypass-icon/58.png
+Name: S-Bypass
+
+Package: com.said.sbypassfree
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Said Al Mujaini
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.said.sbypassfree_0.0.1_iphoneos-arm.deb
+Size: 3756
+MD5sum: 74e0107223bb3be36800bb1834419fc8
+SHA1: 3b26a4c0b0858386a95d7d324160b03ebe5e9307
+SHA256: 0b17245b2ecc1bb161f914024723e4a95fe2341d4881715ab38857c77d2a5c5a
+Section: Tweaks
+Description: Free S-Bypass Activation
+Author: Said Al Mujaini
+Name: Free S-Bypass Activation
+
+Package: com.said.smhookmemory
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Said Al Mujaini
+Installed-Size: 16120
+Filename: ./debs/com.said.smhookmemory_1.1.0_iphoneos-arm.deb
+Size: 1894496
+MD5sum: 3ea9808036973cdcd379f4923ac87c6b
+SHA1: aed3bb80e21d1fec38ac671766fa2e1b8624faf2
+SHA256: 02a7aecb5a21f5b505d67ec647660479f949ab341080e96173a31105934d6254
+Section: System
+Description: Hooking Library
+  Lightweight Hooking Library for ARM64/ARM64e Devices
+  github.com/saeed9321/SMHookMemory
+Tag: role::developer
+Author: Said Al Mujaini
+Name: SMHookMemory
+
