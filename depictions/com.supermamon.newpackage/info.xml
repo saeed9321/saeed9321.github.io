@@ -1,4 +1,5 @@
-<package>
+test
+<!-- <package>
 	<id>com.supermamon.fullpackage</id>
 	<name>Full Package</name>
 	<version>2.0.0-1</version>
@@ -42,4 +43,4 @@
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
-</package>
+</package> -->
