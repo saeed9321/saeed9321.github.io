@@ -113,3 +113,25 @@ Tag: role::developer
 Author: Said Al Mujaini
 Name: SMHookMemory
 
+Package: com.said.jodelkarma
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Said Al Mujaini
+Installed-Size: 376
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/jodelPlus.deb
+Size: 278768
+MD5sum: d5be39d9b4f2aaead3bf5a8c3dda387d
+SHA1: ff69bb1fc207adb0f2cda153d6655160bb022f69
+SHA256: 86dbfd43922dff51eb8aedc0383cbfd9ed22290a50d84d740e57c623d2044e0f
+Section: Tweaks
+Description: Add features to you Jodel
+  Jodel++ with below features
+  1. Auto Karma with timer :)
+  2. Copy & Paste Jodel title and text (long press)
+  3. Spoof Location
+  4. Upload Images
+  5. Download Images
+Author: Said Al Mujaini
+Name: Jodel++
+
