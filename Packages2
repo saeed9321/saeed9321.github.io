@@ -113,6 +113,22 @@ Tag: role::developer
 Author: Said Al Mujaini
 Name: SMHookMemory
 
+Package: com.said.bankmuscatjbbypass
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Said Al Mujaini
+Installed-Size: 416
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.said.bankmuscatjbbypass_0.0.2_iphoneos-arm.deb
+Size: 51906
+MD5sum: 10fa52d27240853b68eefa7dae7fbf74
+SHA1: e5f58aa223e04f15cef6e61670100cb057da0dc9
+SHA256: a59e53a9ce33ebed0c2bb677262653ca2a9b426afdbee0bd3e0588676c67cfe2
+Section: Tweaks
+Description: Bank Muscat v5.13 Jailbreak Detection Bypass
+Author: Said Al Mujaini
+Name: BankMuscatJBBypass
+
 Package: com.said.jodelkarma
 Version: 1.0
 Architecture: iphoneos-arm
