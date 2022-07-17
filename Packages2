@@ -62,12 +62,30 @@ Description: Bypass PUBG Mobile v1.7.0 / PUBG New State v0.9.22 Jailbreak Detect
 Author: Said Al Mujaini
 Name: PUBG JB Bypass
 
+Package: com.said.bankmuscatjbbypass
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Said Al Mujaini
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.said.bankmuscatjbbypass_0.0.3_iphoneos-arm.deb
+Size: 52046
+MD5sum: 9f944df45ede8b244a5e1be117dbce4d
+SHA1: 6e267a99db9e01a14d43401822e2d0dcf7d583cc
+SHA256: 77c86ede636ca6a56c6d73645eaa3a087fb097ab0613117fd957d67b025fe6a1
+Section: Tweaks
+Description: Bank Muscat v5.16 Jailbreak Detection Bypass
+  Bank Muscat v5.16 Jailbreak Detection Bypass
+  Disable tweak injection on BM
+Author: Said Al Mujaini
+Name: BankMuscatJBBypass
+
 Package: com.said.sbypass
 Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: Said Al Mujaini
 Installed-Size: 3020
-Depends: applist, com.rpetrich.rocketbootstrap, com.spark.libsparkapplist
+Depends: applist, com.rpetrich.rocketbootstrap, com.spark.libsparkapplist, com.said.sbypassfree
 Filename: ./debs/com.said.sbypass_2.0.1_iphoneos-arm.deb
 Size: 1972464
 MD5sum: 9403c09ecfc9fafd68a0441b861ee23a
